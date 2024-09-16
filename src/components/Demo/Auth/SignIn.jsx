@@ -40,6 +40,7 @@ const SignIn = ({ setCreateUser, setModal }) => {
   return (
     <div className="mt-[10rem] text-center flex flex-col ">
       <h2 className="text-3xl font-semibold ">Sign In With Email</h2>
+      <p>for test you can use "bret@gmail.com" and password is "123456"</p>
       <form onSubmit={handleLogin} className="mt-[5rem]">
         <Input form={form} setForm={setForm} type="email" title="email" />
         <Input form={form} setForm={setForm} type="password" title="password" />

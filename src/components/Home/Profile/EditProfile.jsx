@@ -93,7 +93,7 @@ const EditProfile = ({ editModal, setEditModal, getUserData }) => {
                 src={
                   coverImgUrl ? coverImgUrl : form.coverImg ? form.coverImg : "/avatar.png"
                 }
-                alt="image"
+                alt="image n ikl//."
                 className="w-full h-full object-cover border-2 border-gray-400 rounded-lg"
               />
               <input
