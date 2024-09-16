@@ -36,7 +36,7 @@ const About = () => {
             storage.
           </li>
           <li className="mt-[1rem]">
-            <span className="font-medium text-xl">Zustand:</span> Used for state
+            <span className="font-medium text-xl">Context API:</span> Used for state
             management, ensuring efficient and scalable handling of application
             state.
           </li>
